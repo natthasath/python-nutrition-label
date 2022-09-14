@@ -1,0 +1,7 @@
+tensorflow
+opencv-contrib-python
+pillow
+numpy
+pytesseract
+django
+easydict
