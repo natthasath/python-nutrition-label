@@ -11,11 +11,18 @@ Document is `Python` project base on [Open Food Fact](https://github.com/openfoo
 
 ### 🆕 New Update
 
-- Add Refresh Token
+- Thai Language OCR
 
 ### ⭐ Features
 
-- Python Design Easy Run Command
+- Table Detection
+- Text Detection & Extraction
+- Image Pre-Processing
+  - Invert Image to Grayscale
+  - Rescale Image
+  - Noise Removal
+  - Rotation and Deskewing
+- Image Post-Processing
 
 ### 💗 Repository
 
@@ -50,10 +57,3 @@ python detection.py -i data/test_images/ocr_eng_07.jpg
 # data/result/output.jpg
 # data/nutrition.csv
 ```
-
-### 💡 Technical
-- Table Detection
-- Text Detection & Extraction
-- Image Pre-Processing
-- Image Processing with Tesseract OCR
-- Image Post-Processing
