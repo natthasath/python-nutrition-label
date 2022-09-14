@@ -7,7 +7,8 @@ Document is `Python` project base on [Open Food Fact](https://github.com/openfoo
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-[![Watch the video](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://cdn.siasat.com/wp-content/uploads/2022/03/Youtube.jpg)](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)
 
 ### 🆕 New Update
 
